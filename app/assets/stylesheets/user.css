@@ -108,7 +108,7 @@
   list-style: square;
 }
 #error_explanation li {
-  margin: 0;
   padding: 0;
+  margin: 0;
   font-size: 13px;
 }
